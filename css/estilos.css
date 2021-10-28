@@ -1,0 +1,71 @@
+body {
+margin: 0px;
+ }
+  
+.navegador {
+
+padding: 20px;
+background-color: black;
+}
+
+
+a {
+    color: rgb(255, 153, 0);
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    font-weight: 800;
+    letter-spacing: 3px;  
+}
+
+ footer {
+        padding: 40px;
+        background-color: rgb(0, 0, 0);
+        }
+
+.img1 {
+    height: auto;
+    width: 100%;
+}
+
+h1 {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    font-weight: 800;
+    letter-spacing: 6px;  
+}
+
+.ig1 {
+    height: auto;
+    width: 100%;
+    border-radius: 75px;
+}
+
+h2 {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    font-weight: 800;
+    letter-spacing: 2px;  
+}
+.meme1 {
+    height: 400px;
+    }
+
+.Espaciobotones{
+    height: 30px;
+}
+.boton1 {
+   
+    background-color: rgb(0, 255, 157);
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    font-weight: 800;
+    letter-spacing: 5px;  
+    width: 100%;
+}
